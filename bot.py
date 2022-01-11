@@ -18,7 +18,7 @@ async def on_message(ctx):
   if ctx.channel.id in recieve_channels:
     for channel_id in send_channels:
       channelx = client.get_channel(channel_id)
-      await channelx.send(f"Fleet Ping from **{ctx.guild.name}**: {ctx.content}")
+      await channelx.send(f"Ping from **{ctx.guild.name}**: {ctx.content}")
 
 #starts the bot and the anti-sleep    
 keep_alive()
