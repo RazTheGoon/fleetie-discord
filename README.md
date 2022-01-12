@@ -8,7 +8,7 @@ Fleetie is a discord bot written in python, built for groups in online games to 
 3. Fill in Send and Receive channels with the appropriate channel ID's
 4. Open .env in a text editor
 5. Place your discord bot's token within the appropriate field.
-6. Save & Host (I personally used replit.com in tandem with UptimeRobot and left the function for hosting this way in the bot)
+6. Save & Host. I personally used replit.com in tandem with UptimeRobot (as seen in this tutorial: https://youtu.be/SPTfmiYiuok?t=3529) and left the function for hosting this way in the bot. 
 
 
 ### Credit
